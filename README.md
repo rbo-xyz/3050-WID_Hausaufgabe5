@@ -1,8 +1,8 @@
-# Template JSX (react, vite, mui)
+# 3050 WID - Hausaufgabe 5
 
-Projekt-Template für 3050 WID
+Bei diesem Repo handelt es sich um eine 1-1 kopie der Hausaufgabe 4.
 
-Um mit der Vorlage Weiterzuarbeiten ist zwingend Node.js auf dem Rechner zu installieren.
+Um mit die Website zu starten ist zwingend Node.js auf dem Rechner zu installieren.
 
 ## Getting Started
 
